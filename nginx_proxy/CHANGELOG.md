@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.7.0
+
+- Supporting TCP Proxy Protocol
+
 ## 3.6.0
 
 - Add port to Host header to fix origin issues affecting ESPHome and other addons

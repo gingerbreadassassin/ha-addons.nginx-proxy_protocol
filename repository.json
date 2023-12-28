@@ -1,0 +1,5 @@
+{
+    "name": "Connor's HA Addon for nginx Proxy_Protocol",
+    "url": "https://github.com/gingerbreadassassin/ha-addons.nginx-proxy_protocol",
+    "maintainer": "Connor Ness"
+  }
